@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "엔트리-effek",
-  "version": "1.0",
+  "version": "2.0",
   "description": "글, 댓글 작성 시 글자에 효과를 넣을 수 있는 기능을 추가합니다",
   "icons": {
     "16": "16.png",

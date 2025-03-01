@@ -149,16 +149,16 @@
       btn.style.cursor = "pointer";
       btn.style.padding = "5px 10px";
       btn.style.fontSize = "18px";
-      btn.style.border = "1px solid #ccc";
+      btn.style.border = "1px solid #88888888";
       btn.style.borderRadius = "4px";
-      btn.style.backgroundColor = "#fefefe";
+      btn.style.backgroundColor = "#fefefe11";
       btn.style.transition = "all 0.3s ease";
       btn.style.outline = "none";
       btn.addEventListener("mouseover", function() {
-        btn.style.backgroundColor = "#f3f3f3";
+        btn.style.backgroundColor = "#bbbbbb33";
       });
       btn.addEventListener("mouseout", function() {
-        btn.style.backgroundColor = "#fefefe";
+        btn.style.backgroundColor = "#fefefe11";
       });
     }
   
